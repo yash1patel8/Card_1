@@ -1,5 +1,6 @@
 # Credit Card Transaction and Customer Insights
-
+- This Power BI dashboard provides real-time insights into credit card transactions and customer data.
+  
 ## Transaction Report Insights
 
 ### Dominance of Blue Cards
