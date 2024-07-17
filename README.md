@@ -1,7 +1,5 @@
 # Credit Card Transaction and Customer Insights
 
-# Credit Card Report Analysis
-
 ## Transaction Report Insights
 
 ### Dominance of Blue Cards
