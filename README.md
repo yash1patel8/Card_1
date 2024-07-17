@@ -67,10 +67,10 @@
 
 ## Visual Insights
 
-![Screenshot 1](Screenshot1.png)
+![Screenshot 1](Screenshot/Screenshot1.png)
 *Figure 1: Card Usage and Revenue Distribution*
 
-![Screenshot 2](Screenshot2.png)
+![Screenshot 2](Screenshot/Screenshot2.png)
 *Figure 2: Customer Demographics and Revenue*
 
 
