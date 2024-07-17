@@ -34,14 +34,7 @@ This document provides an analysis of credit card transaction and customer repor
 ![Screenshot 1](Screenshot1.png)
 *Figure 1: Card Usage and Revenue Distribution*
 
-
-
 ![Screenshot 2](Screenshot2.png)
 *Figure 2: Customer Demographics and Revenue*
 
-
-
-## Conclusion
-
-This analysis provides valuable insights into credit card usage patterns, customer demographics, and spending behaviors. By understanding these trends, financial institutions can better tailor their services to meet customer needs and optimize revenue generation.
 
