@@ -31,11 +31,11 @@ This document provides an analysis of credit card transaction and customer repor
 
 ## Visual Insights
 
-![Screenshot1](path/to/Screenshot1.png)
+![Screenshot1](Card_1/Screenshot 1.png)
 *Figure 1: Card Usage and Revenue Distribution*
 
-![Screenshot2](path/to/Screenshot2.png)
-*Figure 2: Customer Demographics and Revenue*
+![Screenshot2](Card_1/Screenshot 2.png)
+
 
 ## Conclusion
 
